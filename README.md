@@ -22,5 +22,5 @@ This project is a Power BI dashboard that analyzes HR data to identify trends in
 - `HR analysis using PowerBi.pbix` - PowerBi file
 
 ## 🔗 Explore More Projects
-👉 Check out my complete portfolio: (https://vercel.com/abhishek-dhokares-projects/portfolio)
+👉 Check out my complete portfolio: (https://portfolio-three-eta-35.vercel.app)
 ---
