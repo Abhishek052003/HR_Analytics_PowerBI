@@ -14,14 +14,13 @@ This project is a Power BI dashboard that analyzes HR data to identify trends in
 - Excel (as a data source)
 
 ## 📷 Screenshot
-![Dashboard Screenshot](dashboard-screenshot.png)
-
-## 🔗 Portfolio Use
-This dashboard is featured in my data analytics portfolio.  
-👉 [Check the live dashboard preview](LINK_TO_IMAGE_ON_WEBSITE)
+![Dashboard Screenshot](HR_analytics.png)
 
 ## 📁 File Info
-- `HR_Analytics_Dashboard.pbix` – Power BI file
-- `dashboard-screenshot.png` – Image preview of the dashboard
+- `HR_analytics.png` - Image preview of the dashboard
+- `HR_Analytics.xlsx` - Excel file of data
+- `HR analysis using PowerBi.pbix` - PowerBi file
 
+## 🔗 Explore More Projects
+👉 Check out my complete portfolio: (https://vercel.com/abhishek-dhokares-projects/portfolio)
 ---
